@@ -15,7 +15,7 @@ A powerful Discord bot that automatically monitors your social media accounts an
 
 ## 👨‍💻 About the Developer
 
-Created by **Pranav Khandagale** - Full Stack Developer & Tech Enthusiast
+Created by **Pranav Khandelwal** - Full Stack Developer & Tech Enthusiast
 
 🌐 **Connect with me:**
 - 🌍 Website: [pranavk.tech](https://pranavk.tech)
@@ -382,6 +382,6 @@ When reporting issues, please include:
 
 ---
 
-**Made with ❤️ by [Pranav Khandagale](https://pranavk.tech)**
+**Made with ❤️ by [Pranav Khandelwal](https://pranavk.tech)**
 
 *InfoBot - Keeping your community updated automatically!* 
