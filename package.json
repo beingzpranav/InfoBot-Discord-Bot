@@ -1,0 +1,54 @@
+{
+	"name": "infobot-discord",
+	"version": "1.0.0",
+	"description": "A Discord bot that automatically monitors social media accounts and sends notifications",
+	"main": "src/index.js",
+	"type": "module",
+	"scripts": {
+		"start": "node src/index.js",
+		"dev": "node --watch src/index.js",
+		"test": "node src/utils/test.js",
+		"status": "node src/utils/status.js",
+		"config": "node src/config/config.js",
+		"lint": "eslint src/",
+		"format": "prettier --write src/"
+	},
+	"keywords": [
+		"discord",
+		"bot",
+		"social-media",
+		"notifications",
+		"youtube",
+		"instagram",
+		"automation"
+	],
+	"author": "Your Name",
+	"license": "MIT",
+	"dependencies": {
+		"discord.js": "^14.14.1",
+		"node-cron": "^3.0.3",
+		"axios": "^1.6.2",
+		"sqlite3": "^5.1.6",
+		"winston": "^3.11.0",
+		"winston-daily-rotate-file": "^4.7.1",
+		"cheerio": "^1.0.0-rc.12",
+		"rss-parser": "^3.13.0",
+		"dotenv": "^16.3.1"
+	},
+	"devDependencies": {
+		"eslint": "^8.55.0",
+		"prettier": "^3.1.0",
+		"nodemon": "^3.0.2"
+	},
+	"engines": {
+		"node": ">=18.0.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/yourusername/infobot-discord.git"
+	},
+	"bugs": {
+		"url": "https://github.com/yourusername/infobot-discord/issues"
+	},
+	"homepage": "https://github.com/yourusername/infobot-discord#readme"
+} 
