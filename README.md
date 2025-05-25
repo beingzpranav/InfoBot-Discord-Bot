@@ -158,9 +158,12 @@ InfoBot supports these slash commands:
 
 ### `/status`
 Shows current bot status and configuration
-`![image](https://github.com/user-attachments/assets/da6e2b69-4025-43c9-a43d-99349ad48c59)
-
-
+```
+✅ Bot Online: InfoBot#9724
+🏠 Server: Your Server (99 members)
+📊 Active Platforms: 2
+📈 Total Notifications: 15
+```
 ### `/check-now`
 Manually trigger a check for new content
 ```
